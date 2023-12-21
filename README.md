@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Usaama256
-- 👀 I’m interested in Android Development,Web Development and Artificial Intelligence
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Android Development and Web Development
+- 👀 I’m interested in Web Development and Artificial Intelligence
 - 📫 How to reach me usaamankangi@gmail.com
 
 <!---
